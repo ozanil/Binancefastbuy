@@ -1,0 +1,1 @@
+This python file uses thread method for fast fetching on newly opened binance peers. Edit the api_key and api_secret parts in the file named Settings.ini, write the amount to be purchased opposite the quantity part, you can close the program when you see that the purchase is successful after starting the trading pair in a short time.
